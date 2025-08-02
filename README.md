@@ -1,6 +1,11 @@
-# 💫 About Me:
-🚀 I’m currently working on a cloud-based Agricultural Market Access app, optimizing connectivity between farmers and buyers using AWS, Spring Boot, and React.<br><br>🔥 I’m looking to collaborate on open-source projects related to Linux, DevOps, Cloud Computing, and Automation.<br><br>🤝 I’m looking for help with scaling applications on Cloud platforms, Kubernetes, and CI/CD pipelines.<br><br>🌱 I’m currently learning  SpringBoot along with DevOps fundamentals<br><br>💬 Ask me about Java, Python, SQL, Cloud Computing (AWS, GCP), Linux, and Full-Stack Development.<br><br>
-
+💫 About Me
+👨‍💻 Final-year CS student at VIT Bhopal, passionate about building scalable backend systems and automating the cloud.
+<br>🚀 Currently diving deep into Java Spring Boot, Cloud and DevOps tools while leveling up my DSA skills.
+<br>☁️ Experienced with deploying real-world projects like Blood Bank and Doconvo on AWS.
+<br>🔥 I live for solving real-world problems with clean code and love tinkering with new cloud & automation tools.
+<br>💡 Strong in Java, Python, SQL, Git, VS Code, Spring Boot, and cloud platforms (AWS & GCP).
+<br>🤝 Always up for collaborating on open-source projects, backend systems, and cloud-native apps.
+<br>📬 Let’s connect if you’re building something cool—or want to!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat_b_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshatbarve/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barveakshat091@gmail.com) 
