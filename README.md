@@ -1,4 +1,4 @@
-** 💫 About Me **
+# 💫 About Me:
 👨‍💻 Final-year CS student at VIT Bhopal, passionate about building scalable backend systems and automating the cloud.
 <br>🚀 Currently diving deep into Java Spring Boot, Cloud and DevOps tools while leveling up my DSA skills.
 <br>☁️ Experienced with deploying real-world projects like Blood Bank and Doconvo on AWS.
