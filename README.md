@@ -48,10 +48,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vue&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vue&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=barveakshat&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveakshat&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=barveakshat&theme=dark" alt="GitHub Streak" />
 </p>
