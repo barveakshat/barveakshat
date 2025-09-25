@@ -45,13 +45,3 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=barveakshat&show_icons=true&theme=dark" alt="Your GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveakshat&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barveakshat&theme=dark" alt="GitHub Streak" />
-</p>
