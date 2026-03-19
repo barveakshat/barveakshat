@@ -1,0 +1,146 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#030b16"/>
+    <stop offset="45%" stop-color="#071428"/>
+    <stop offset="100%" stop-color="#030b16"/>
+  </linearGradient>
+  <linearGradient id="borderG" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#00e676" stop-opacity="0"/>
+    <stop offset="30%"  stop-color="#00e676" stop-opacity="0.7"/>
+    <stop offset="70%"  stop-color="#4fc3f7" stop-opacity="0.7"/>
+    <stop offset="100%" stop-color="#4fc3f7" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    @keyframes fall {
+      0%   { transform:translateY(-16px); opacity:0; }
+      10%  { opacity:0.8; }
+      85%  { opacity:0.4; }
+      100% { transform:translateY(175px); opacity:0; }
+    }
+    @keyframes pdot {
+      0%,100% { opacity:0.2; }
+      50%     { opacity:0.9; }
+    }
+    @keyframes pedge {
+      0%,100% { opacity:0.06; }
+      50%     { opacity:0.22; }
+    }
+    @keyframes scan {
+      0%   { transform:translateY(-4px); opacity:0.1; }
+      100% { transform:translateY(164px); opacity:0; }
+    }
+    @keyframes blink {
+      0%,49% { opacity:1; }
+      50%,100% { opacity:0; }
+    }
+    @keyframes nameglow {
+      0%,100% { opacity:0.88; }
+      50%     { opacity:1; }
+    }
+    @keyframes subglow {
+      0%,100% { opacity:0.65; }
+      50%     { opacity:0.95; }
+    }
+    .rain { font-family:'Courier New',monospace; font-size:11px; fill:#00e676; animation:fall linear infinite; }
+    .dot  { animation:pdot ease-in-out infinite; }
+    .edge { fill:none; stroke:#4fc3f7; stroke-width:0.5; animation:pedge ease-in-out infinite; }
+    .scanline { animation:scan 3.2s linear infinite; }
+    .name { font-family:'Courier New',monospace; font-size:46px; font-weight:bold; fill:#00e676; text-anchor:middle; letter-spacing:8px; animation:nameglow 2.4s ease-in-out infinite; }
+    .sub  { font-family:'Courier New',monospace; font-size:13px; fill:#4fc3f7; text-anchor:middle; letter-spacing:3px; animation:subglow 3s ease-in-out infinite; }
+    .cur  { fill:#00e676; animation:blink 1s step-end infinite; }
+    .prompt { font-family:'Courier New',monospace; font-size:11px; fill:#00e676; opacity:0.5; }
+    .bin  { font-family:'Courier New',monospace; font-size:8.5px; opacity:0.22; }
+  </style>
+</defs>
+
+<rect width="900" height="160" fill="url(#bg)" rx="6"/>
+
+<!-- Edges left -->
+<line class="edge" x1="60"  y1="28"  x2="130" y2="55"  style="animation-delay:.3s"/>
+<line class="edge" x1="130" y1="55"  x2="80"  y2="100" style="animation-delay:.8s"/>
+<line class="edge" x1="80"  y1="100" x2="150" y2="120" style="animation-delay:.1s"/>
+<line class="edge" x1="60"  y1="28"  x2="40"  y2="90"  style="animation-delay:1.1s"/>
+<line class="edge" x1="40"  y1="90"  x2="80"  y2="100" style="animation-delay:.5s"/>
+<line class="edge" x1="130" y1="55"  x2="180" y2="40"  style="animation-delay:.7s"/>
+<!-- Edges right -->
+<line class="edge" x1="820" y1="30"  x2="860" y2="75"  style="animation-delay:.6s"/>
+<line class="edge" x1="860" y1="75"  x2="840" y2="120" style="animation-delay:.2s"/>
+<line class="edge" x1="820" y1="30"  x2="780" y2="80"  style="animation-delay:.9s"/>
+<line class="edge" x1="780" y1="80"  x2="840" y2="120" style="animation-delay:.4s"/>
+<line class="edge" x1="740" y1="50"  x2="780" y2="80"  style="animation-delay:1.0s"/>
+
+<!-- Nodes left -->
+<circle class="dot" cx="60"  cy="28"  r="2.5" fill="#00e676" style="animation-duration:2.1s;animation-delay:0s"/>
+<circle class="dot" cx="130" cy="55"  r="2"   fill="#4fc3f7" style="animation-duration:2.8s;animation-delay:.4s"/>
+<circle class="dot" cx="80"  cy="100" r="1.5" fill="#1e4fa0" style="animation-duration:3.2s;animation-delay:.2s"/>
+<circle class="dot" cx="40"  cy="90"  r="2"   fill="#00e676" style="animation-duration:2.4s;animation-delay:.9s"/>
+<circle class="dot" cx="150" cy="120" r="2"   fill="#4fc3f7" style="animation-duration:2.6s;animation-delay:.6s"/>
+<circle class="dot" cx="180" cy="40"  r="1.5" fill="#1e4fa0" style="animation-duration:3.0s;animation-delay:.3s"/>
+<circle class="dot" cx="30"  cy="50"  r="2"   fill="#00e676" style="animation-duration:2.7s;animation-delay:.7s"/>
+<!-- Nodes right -->
+<circle class="dot" cx="820" cy="30"  r="2.5" fill="#00e676" style="animation-duration:2.3s;animation-delay:.5s"/>
+<circle class="dot" cx="860" cy="75"  r="2"   fill="#4fc3f7" style="animation-duration:2.9s;animation-delay:.1s"/>
+<circle class="dot" cx="840" cy="120" r="2"   fill="#1e4fa0" style="animation-duration:2.5s;animation-delay:.8s"/>
+<circle class="dot" cx="780" cy="80"  r="2"   fill="#4fc3f7" style="animation-duration:3.1s;animation-delay:.3s"/>
+<circle class="dot" cx="740" cy="50"  r="2"   fill="#00e676" style="animation-duration:2.0s;animation-delay:1.2s"/>
+<circle class="dot" cx="870" cy="135" r="1.5" fill="#1e4fa0" style="animation-duration:2.8s;animation-delay:.6s"/>
+<circle class="dot" cx="880" cy="45"  r="2"   fill="#00e676" style="animation-duration:3.3s;animation-delay:.9s"/>
+
+<!-- Matrix rain left -->
+<text class="rain" x="18"  y="0" style="animation-duration:2.0s;animation-delay:0.0s">1</text>
+<text class="rain" x="36"  y="0" style="animation-duration:1.7s;animation-delay:0.6s">ア</text>
+<text class="rain" x="54"  y="0" style="animation-duration:2.3s;animation-delay:1.1s">0</text>
+<text class="rain" x="72"  y="0" style="animation-duration:1.9s;animation-delay:0.3s">イ</text>
+<text class="rain" x="90"  y="0" style="animation-duration:2.5s;animation-delay:0.8s">1</text>
+<text class="rain" x="108" y="0" style="animation-duration:1.6s;animation-delay:1.4s">ウ</text>
+<text class="rain" x="126" y="0" style="animation-duration:2.1s;animation-delay:0.5s">0</text>
+<text class="rain" x="144" y="0" style="animation-duration:2.7s;animation-delay:0.2s">エ</text>
+<text class="rain" x="162" y="0" style="animation-duration:1.8s;animation-delay:1.0s">1</text>
+<text class="rain" x="180" y="0" style="animation-duration:2.4s;animation-delay:0.7s">オ</text>
+<text class="rain" x="198" y="0" style="animation-duration:1.5s;animation-delay:1.3s">0</text>
+<text class="rain" x="216" y="0" style="animation-duration:2.2s;animation-delay:0.4s">1</text>
+<!-- Matrix rain right -->
+<text class="rain" x="666" y="0" style="animation-duration:2.1s;animation-delay:0.9s">0</text>
+<text class="rain" x="684" y="0" style="animation-duration:1.7s;animation-delay:0.2s">カ</text>
+<text class="rain" x="702" y="0" style="animation-duration:2.4s;animation-delay:1.1s">1</text>
+<text class="rain" x="720" y="0" style="animation-duration:1.9s;animation-delay:0.5s">キ</text>
+<text class="rain" x="738" y="0" style="animation-duration:2.6s;animation-delay:0.0s">0</text>
+<text class="rain" x="756" y="0" style="animation-duration:1.6s;animation-delay:1.3s">ク</text>
+<text class="rain" x="774" y="0" style="animation-duration:2.0s;animation-delay:0.7s">1</text>
+<text class="rain" x="792" y="0" style="animation-duration:2.3s;animation-delay:0.4s">ケ</text>
+<text class="rain" x="810" y="0" style="animation-duration:1.8s;animation-delay:1.0s">0</text>
+<text class="rain" x="828" y="0" style="animation-duration:2.5s;animation-delay:0.3s">コ</text>
+<text class="rain" x="846" y="0" style="animation-duration:1.5s;animation-delay:1.5s">1</text>
+<text class="rain" x="864" y="0" style="animation-duration:2.2s;animation-delay:0.6s">サ</text>
+
+<!-- Scanline -->
+<rect class="scanline" x="0" y="0" width="900" height="2.5" fill="#00e676" rx="1"/>
+
+<!-- Borders -->
+<line x1="0" y1="0.5"   x2="900" y2="0.5"   stroke="url(#borderG)" stroke-width="1.5"/>
+<line x1="0" y1="159.5" x2="900" y2="159.5" stroke="url(#borderG)" stroke-width="1.5"/>
+
+<!-- HUD corners green top -->
+<polyline points="12,6 12,22 28,22"    fill="none" stroke="#00e676" stroke-width="1.2" opacity="0.65"/>
+<polyline points="888,6 888,22 872,22" fill="none" stroke="#00e676" stroke-width="1.2" opacity="0.65"/>
+<!-- HUD corners blue bottom -->
+<polyline points="12,154 12,138 28,138"    fill="none" stroke="#4fc3f7" stroke-width="1.2" opacity="0.65"/>
+<polyline points="888,154 888,138 872,138" fill="none" stroke="#4fc3f7" stroke-width="1.2" opacity="0.65"/>
+
+<!-- Prompt -->
+<text class="prompt" x="30" y="46">~/dev/akshat $</text>
+
+<!-- Name — hardcoded fill, no gradient reference -->
+<text class="name" x="450" y="88">AKSHAT BARVE</text>
+
+<!-- Cursor -->
+<rect class="cur" x="683" y="52" width="4" height="38" rx="1"/>
+
+<!-- Subtitle — hardcoded fill -->
+<text class="sub" x="450" y="120">BACKEND_ENGINEER  ·  JAVA  ·  SPRING_BOOT  ·  AWS</text>
+
+<!-- Binary flanks -->
+<text class="bin" x="22"  y="150" font-family="'Courier New',monospace" fill="#00e676">01001010 10110010</text>
+<text class="bin" x="734" y="150" font-family="'Courier New',monospace" fill="#4fc3f7">11010110 00101101</text>
+</svg>
