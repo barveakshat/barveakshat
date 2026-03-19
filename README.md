@@ -128,14 +128,13 @@ public class AkshatBarve {
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barveakshat/barveakshat/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barveakshat/barveakshat/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barveakshat/barveakshat/output/github-contribution-grid-snake.svg" />
-</picture>
-
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+ 
+### 📈 Contribution Activity
+ 
+[![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barveakshat&bg_color=0d1117&color=4A90D9&line=1e4078&point=4A90D9&area=true&area_color=1e4078&hide_border=true&radius=8&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 </div>
 
 ---
