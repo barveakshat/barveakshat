@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1b2a,50:1e4078,100:0d3b26&height=160&section=header&text=Akshat%20Barve&fontSize=48&fontColor=e8f4fd&fontAlignY=50&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS&descSize=16&descAlignY=72&animation=fadeIn&fontAlign=50" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Akshat Barve"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -125,21 +125,18 @@ public class AkshatBarve {
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-
 <!-- ACTIVITY GRAPH -->
 <div align="center">
- 
+
 ### 📈 Contribution Activity
- 
+
 [![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barveakshat&bg_color=0d1117&color=4A90D9&line=1e4078&point=4A90D9&area=true&area_color=1e4078&hide_border=true&radius=8&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+
 </div>
 
 ---
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6b3d,100:0f2942&height=130&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6b3d,100:0f2942&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
