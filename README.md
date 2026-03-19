@@ -1,47 +1,201 @@
-## 👋 Hi, I'm Akshat Barve
+<!-- ANIMATED HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2942,50:1e4078,100:0f6b3d&height=280&section=header&text=Akshat%20Barve&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%94%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS&descSize=20&descAlignY=65&animation=fadeIn&stroke=1e4078&strokeWidth=2" width="100%"/>
+</div>
 
-**Java & Cloud Developer | Exploring GenAI & DevOps**
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;Java+21+%C2%B7+Spring+Boot+3.0+%C2%B7+Redis+%C2%B7+AWS;AI-integrated+APIs+%7C+Async+Pipelines+%7C+Cloud+Infra;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%7C+VIT+Bhopal+%7C+CGPA+8.86" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatbarve)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barveakshat091@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barveakshat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/barveakshat)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ba21d63e-bb6f-4579-9193-dc007a89ef6e/public_url)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=barveakshat&label=Profile+Views&color=1e4078&style=flat-square" alt="profile views" />
+</div>
+
+<br/>
 
 ---
 
-### 💻 About Me
+<!-- ABOUT + GIF — TWO COLUMN LAYOUT -->
+<table align="center" border="0" width="96%">
+<tr>
+<td width="55%" valign="top">
 
-- 🧠 I'm currently learning **SpringBoot**, **Microservices**, **DevOps**, and **GenAI**.
-- 🛠️ Fun fact: I enjoy breaking things—just so I can fix them better.
-- 📧 How to reach me: **barveakshat091@gmail.com**
+### 👨‍💻 About Me
+
+```java
+@Component
+public class AkshatBarve {
+
+  String role   = "Backend Engineer";
+  String school = "VIT Bhopal · CGPA 8.86";
+
+  String[] building = {
+    "AI Resume Screening API",
+    "Open Source (Spring ecosystem)"
+  };
+
+  String[] expertise = {
+    "REST API Design",
+    "Redis Caching Strategy",
+    "Async Processing Pipelines",
+    "JWT Security & Rate Limiting",
+    "AWS Deployments & Docker"
+  };
+
+  String goal = "SDE / Backend Intern @ Startup";
+}
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" style="border-radius:12px"/>
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔗 Connect With Me
+## 🛠️ Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barveakshat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat_barve)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshat_b_04)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/akshat_barve)
+<div align="center">
+
+**Languages**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,sql&perline=5&theme=dark" />
+</a>
+
+<br/><br/>
+
+**Backend & Frameworks**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,nextjs&perline=4&theme=dark" />
+</a>
+
+<br/><br/>
+
+**Databases & Cache**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase&perline=4&theme=dark" />
+</a>
+
+<br/><br/>
+
+**Cloud & DevOps**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git&perline=5&theme=dark" />
+</a>
+
+</div>
 
 ---
 
-### Languages and Tools:
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="kafka" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
+## 🚀 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/barveakshat/AI-resume-screening-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barveakshat&repo=AI-resume-screening-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&border_radius=12" />
+</a>
+<a href="https://github.com/barveakshat/Do-Convo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barveakshat&repo=Do-Convo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&border_radius=12" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🔗 Project | ⚙️ Stack | ✨ What makes it interesting |
+|:---|:---|:---|
+| **[AI Resume Screener](https://github.com/barveakshat/AI-resume-screening-api)** | Java 21 · Spring Boot · Redis · AWS S3 | Async AI inference pipeline · <200ms cached responses · JWT + Rate Limiting |
+| **[PrepTrack](https://preptrack-fnz88udje-akshat-barves-projects.vercel.app/)** | Next.js · Supabase · Daily.co · OpenAI | WebRTC live video · Row-level security · 40% TTFB gain · 1,000+ users |
+| **[DoConvo](https://github.com/barveakshat/Do-Convo)** | Next.js · TypeScript · AWS EC2 · AES-256 | Pre-upload encryption · WebSocket chat · NGINX + PM2 on bare EC2 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barveakshat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=12" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveakshat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=c9d1d9&border_radius=12&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=barveakshat&theme=github-dark-blue&hide_border=true&background=0D1117&border_radius=12&date_format=j%20M%5B%20Y%5D&stroke=4A90D9&ring=4A90D9&fire=FF6B35&currStreakLabel=4A90D9" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=barveakshat&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=6" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer | Date |
+|:---:|:---|:---|:---:|
+| ☁️ | [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/ba21d63e-bb6f-4579-9193-dc007a89ef6e/public_url) | Amazon Web Services | Feb 2026 |
+| 🔧 | [**DevOps Fundamentals**](https://courses.ibmcep.cognitiveclass.ai/certificates/5c170b21ac294f489d6fbbb0c62cef6d) | IBM Career Education | Mar 2025 |
+| ☕ | [**Object Oriented Programming in Java**](https://coursera.org/verify/47B4CLPBPVEU) | Coursera | Jun 2025 |
+| ☁️ | [**Fundamentals of Cloud Computing**](https://coursera.org/verify/4BHZXMML2GNT) | Coursera | Jun 2025 |
+
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+
+### 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barveakshat/barveakshat/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barveakshat/barveakshat/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barveakshat/barveakshat/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6b3d,100:0f2942&height=130&section=footer&animation=fadeIn" width="100%"/>
+</div>
