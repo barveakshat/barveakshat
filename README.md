@@ -1,12 +1,12 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2942,50:1e4078,100:0f6b3d&height=280&section=header&text=Akshat%20Barve&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%94%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS&descSize=20&descAlignY=65&animation=fadeIn&stroke=1e4078&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1b2a,50:1e4078,100:0d3b26&height=160&section=header&text=Akshat%20Barve&fontSize=48&fontColor=e8f4fd&fontAlignY=50&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS&descSize=16&descAlignY=72&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;Java+21+%C2%B7+Spring+Boot+3.0+%C2%B7+Redis+%C2%B7+AWS;AI-integrated+APIs+%7C+Async+Pipelines+%7C+Cloud+Infra;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%7C+VIT+Bhopal+%7C+CGPA+8.86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&width=620&height=45&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;Java+21+%C2%B7+Spring+Boot+3.0+%C2%B7+Redis+%C2%B7+AWS;AI-integrated+APIs+%7C+Async+Pipelines+%7C+Cloud+Infra;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%7C+VIT+Bhopal+%7C+CGPA+8.86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,12 +19,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barveakshat091@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barveakshat)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/barveakshat)
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ba21d63e-bb6f-4579-9193-dc007a89ef6e/public_url)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ba21d63e-bb6f-4579-9193-dc007a89ef6e/public_url)
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=barveakshat&label=Profile+Views&color=1e4078&style=flat-square" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=barveakshat&label=Profile+Views&color=1e4078&style=flat-square" alt="profile views" />
 </div>
 
 <br/>
@@ -67,12 +65,12 @@ public class AkshatBarve {
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" style="border-radius:12px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> *"First, solve the problem.*
+> *Then, write the code."*
 
 </td>
 </tr>
@@ -84,62 +82,9 @@ public class AkshatBarve {
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,spring,nodejs,nextjs,hibernate&perline=8&theme=dark" />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,sql&perline=5&theme=dark" />
-</a>
-
-<br/><br/>
-
-**Backend & Frameworks**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,nextjs&perline=4&theme=dark" />
-</a>
-
-<br/><br/>
-
-**Databases & Cache**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase&perline=4&theme=dark" />
-</a>
-
-<br/><br/>
-
-**Cloud & DevOps**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git&perline=5&theme=dark" />
-</a>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/barveakshat/AI-resume-screening-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barveakshat&repo=AI-resume-screening-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&border_radius=12" />
-</a>
-<a href="https://github.com/barveakshat/Do-Convo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barveakshat&repo=Do-Convo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🔗 Project | ⚙️ Stack | ✨ What makes it interesting |
-|:---|:---|:---|
-| **[AI Resume Screener](https://github.com/barveakshat/AI-resume-screening-api)** | Java 21 · Spring Boot · Redis · AWS S3 | Async AI inference pipeline · <200ms cached responses · JWT + Rate Limiting |
-| **[PrepTrack](https://preptrack-fnz88udje-akshat-barves-projects.vercel.app/)** | Next.js · Supabase · Daily.co · OpenAI | WebRTC live video · Row-level security · 40% TTFB gain · 1,000+ users |
-| **[DoConvo](https://github.com/barveakshat/Do-Convo)** | Next.js · TypeScript · AWS EC2 · AES-256 | Pre-upload encryption · WebSocket chat · NGINX + PM2 on bare EC2 |
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker,linux,nginx&perline=8&theme=dark" />
 
 </div>
 
@@ -149,9 +94,9 @@ public class AkshatBarve {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barveakshat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=12" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveakshat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=c9d1d9&border_radius=12&langs_count=6" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=barveakshat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=12&show=reviews,discussions_started,prs_merged" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveakshat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=c9d1d9&border_radius=12&langs_count=6&hide=html,css" />
 
 <br/><br/>
 
@@ -183,7 +128,7 @@ public class AkshatBarve {
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
-### 🐍 My Contributions
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barveakshat/barveakshat/output/github-contribution-grid-snake-dark.svg" />
