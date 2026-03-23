@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&width=620&height=45&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;Java+21+%C2%B7+Spring+Boot+3.0+%C2%B7+Redis+%C2%B7+AWS;AI-integrated+APIs+%7C+Async+Pipelines+%7C+Cloud+Infra;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%7C+VIT+Bhopal+%7C+CGPA+8.86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&width=620&height=45&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;Java+21+%C2%B7+Spring+Boot+3.0+%C2%B7+Redis+%C2%B7+AWS;AI-integrated+APIs+%7C+Async+Pipelines+%7C+Cloud+Infra;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;VIT+Bhopal+%7C+CGPA+8.86" alt="Typing SVG" />
   </a>
 </div>
 
