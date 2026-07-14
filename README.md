@@ -29,7 +29,7 @@
 
 ---
 
-<!-- ABOUT + TERMINAL VISUAL — TWO COLUMN LAYOUT -->
+<!-- ABOUT + BUILD STATUS — TWO COLUMN LAYOUT -->
 <table align="center" border="0" width="96%">
 <tr>
 <td width="55%" valign="top">
@@ -64,7 +64,9 @@ public class AkshatBarve {
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./about-visual.svg" width="100%" alt="deploy terminal — terraform apply, kubectl get pods, healthcheck stats"/>
+<br/><br/>
+
+<img src="./about-visual.svg" width="100%" alt="build pipeline status — compile, test, deploy, skill coverage"/>
 
 </td>
 </tr>
