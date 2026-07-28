@@ -14,15 +14,9 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-<p>
-<a href="https://linkedin.com/in/akshatbarve"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:barveakshat091@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/barveakshat"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/barveakshat"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://www.credly.com/badges/ba21d63e-bb6f-4579-9193-dc007a89ef6e/public_url"><img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/akshatbarve"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:barveakshat091@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/barveakshat"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://leetcode.com/barveakshat"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> <a href="https://www.credly.com/badges/ba21d63e-bb6f-4579-9193-dc007a89ef6e/public_url"><img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=barveakshat&label=Profile+Views&color=1e4078&style=flat-square" />
 </div>
 
 <br/>
